@@ -1,2 +1,3 @@
 # KoreanLearning
-My holder for Korean language used
+
+Wiki for all Korean language used and learnt
