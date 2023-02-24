@@ -4,7 +4,7 @@ Wiki for all Korean language used and learnt. I love using markdown for writing 
 
 This repository will contain minimal software but will include ways to help learn Korean with word games.
 
-## Setup
+## 셋업 - Setup
 
 Used in VS Code for best usage.
 
@@ -12,7 +12,7 @@ Markdown exported to PDF for sending.
 
 단디 - 한국어 맞춤법 검사기 - [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
 
-## 수업
+## 수업 - Lesson
 
 1. [서강 1A]()
 1. [서강 1B]()
